@@ -1,0 +1,26 @@
+{
+    "productList":
+    [
+    {
+        "id": 1,
+        "title":"CONVERSE CHUCK TAYLOR",
+        "img":"https://converse.in.ua/images/photos/small/shop246-4.jpg",
+        "price": 200,
+        "text": "Кеды Converse All Star предназначены для повседневной носки. Верх выполнен из дышащего текстиля зеленого цвета для вентиляции и комфорта. Стелька из пеноматериала Lunarlon создает отзывчивую амортизацию."
+    },
+    {
+        "id": 2,
+        "title":"CONVERSE CHUCK TAYLOR",
+        "img":"https://converse.in.ua/images/photos/small/shop229-1.jpg.pagespeed.ce.7jquPJQQtq.jpg",
+        "price": 210,
+        "text": "Женские кеды Converse Chuck Taylor All Star предназначены для ежедневной носки. Верх выполнен из текстильного материала.  Внутренняя стелька Nike Lunarlon для амортизации и комфорта. "
+    },
+    {
+        "id": 3,
+        "title":"CONVERSE CHUCK TAYLOR",
+        "img":"https://converse.in.ua/images/photos/small/shop67-14.jpg.pagespeed.ce.EKyo1ZvN6X.jpg" ,
+        "price": 200,
+        "text": "Бордовые высокие кеды Converse All Star предназначены для ежедневной носки в теплое время года. Верх выполнен из дышащего текстильного материала для вентиляции и удобства. Мягкая подкладка, воротник и стелька для комфорта в течение всего дня."
+    }
+    ]
+}

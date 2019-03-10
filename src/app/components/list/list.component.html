@@ -1,0 +1,13 @@
+<ul>
+    <li *ngFor="let list of lists"  class="prod-thumb" >
+    <img [src]="list.img" alt="" />
+      <div class="prod-info">
+        <h4 class="prod-title">{{list.title}}</h4>
+        <div class="buy-section clearfix">
+          <h3 class="prod-price"><sup>$</sup>{{list.price}}</h3>
+          <a href="" class="button" routerLink="/product/{{list.id}}" >See more...</a>
+        </div>
+      </div>
+    </li>
+</ul>
+<router-outlet></router-outlet>

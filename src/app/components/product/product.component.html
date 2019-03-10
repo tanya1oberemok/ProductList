@@ -1,0 +1,8 @@
+<div class="wrap" *ngIf="list">
+  <div class="white">
+      <img [src]="list.img" alt="" />
+  </div>
+  <h4 class="prod-title">{{list.title | uppercase}}</h4>
+  <span>{{list.text | uppercase}}</span>
+</div>
+<router-outlet></router-outlet>
